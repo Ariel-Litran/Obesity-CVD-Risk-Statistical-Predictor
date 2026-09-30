@@ -53,4 +53,4 @@ All statistical analysis and modeling were performed in **R**.
 ## Context & Team
 Collaborative project developed by a team of 4 undergraduate students as part of the Statistics course for the **Artificial Intelligence Bachelor's Degree** at **Universitat Politècnica de Catalunya (UPC)**.
 
-*My main contributions:*
+*My main contributions: Implementation of the multiple regression model and Descriptive analysis of the data*
